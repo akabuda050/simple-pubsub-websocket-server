@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "ws": "^8.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "simple-pubsub-websocket-server",
+  "description": "## Installation",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akabuda050/simple-pubsub-websocket-server.git"
+  },
+  "keywords": [
+    "simple-pubsub-websocket-server"
+  ],
+  "author": "Olexandr Dolbin <olexandr.dolbin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akabuda050/simple-pubsub-websocket-server/issues"
+  },
+  "homepage": "https://github.com/akabuda050/simple-pubsub-websocket-server#readme"
+}
