@@ -6,4 +6,7 @@
 
 ## Usage
 
-`node server.js`
+```javascript
+const startServer = require('simple-pubsub-websocket-server');
+startServer({ port: 9000 });
+```
