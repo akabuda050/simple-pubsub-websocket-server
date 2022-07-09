@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "name": "simple-pubsub-websocket-server",
-  "description": "## Installation",
+  "description": "Simple websocket server",
   "version": "1.0.0",
   "main": "server.js",
   "devDependencies": {},
